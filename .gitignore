@@ -1,2 +1,3 @@
 *.zip
+release\*.zip
 appsettings.Development.json
