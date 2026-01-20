@@ -1,7 +1,6 @@
-// APD/WSFN Ajax Support 
-// Version 5
-
-// If you're not using /wsfn/ as the serviceRoot - please edit this file to the right value
+// WSFN Ajax Support 
+// (c) E Foqus Danmark A/S 2006,2007,2013,2016
+// Version 4
 
 var requests = new Array();
 var errorCode = 0;
